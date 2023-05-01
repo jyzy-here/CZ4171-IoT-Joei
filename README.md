@@ -56,3 +56,7 @@ The Keras Model, as detailed above, should be saved within the same file directo
 The source code for the Android Application used is saved in the iotProject folder. 
 
 There are 2 buttons that allows users to either select images from their Android Device or use the Android device's in-built camera to take a picture of the coffee dripper. Once the image is selected or taken from the camera, it will be shown in the placeholder space. Once the Predict Button is selected, the image is sent to the Flask Server that has the Keras Machine Learning Model. The prediction process will then be processed in the server and the result will be sent back to the application and the corresponding coffee dripper in the image will be identified and displayed as text.
+
+<img width="400" alt="image_2023-05-02_00-54-16" src="https://user-images.githubusercontent.com/70619856/235495312-be98708d-b59b-4c82-bd99-eba18978fb82.png">
+
+## Video Demo:
