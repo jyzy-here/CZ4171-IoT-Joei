@@ -60,3 +60,4 @@ There are 2 buttons that allows users to either select images from their Android
 <img width="400" alt="image_2023-05-02_00-54-16" src="https://user-images.githubusercontent.com/70619856/235495312-be98708d-b59b-4c82-bd99-eba18978fb82.png">
 
 ## Video Demo:
+https://youtu.be/rFpoyE-Chn4
